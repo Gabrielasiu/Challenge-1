@@ -1,4 +1,4 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# 01 Semantic Elements, Alt Attributes and Titles
 
 
 ## Description
